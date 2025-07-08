@@ -1,6 +1,5 @@
 import allure
 import requests
-
 from help_data import registration_courier, url_courier_login, generate_random_string
 
 @allure.description('Тестирование класса авторизации курьера')
